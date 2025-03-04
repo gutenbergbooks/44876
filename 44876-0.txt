@@ -1,35 +1,4 @@
-Project Gutenberg's The Cruise of the Midge (Vol. II of 2), by Michael Scott
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Cruise of the Midge (Vol. II of 2)
-
-Author: Michael Scott
-
-Release Date: February 12, 2014 [EBook #44876]
-
-Language: English
-
-Character set encoding: ASCII
-
-*** START OF THIS PROJECT GUTENBERG EBOOK CRUISE OF THE MIDGE, VOL II ***
-
-
-
-
-Produced by Al Haines
-
-
-
-
-
-
-
-
+*** START OF THE PROJECT GUTENBERG EBOOK 44876 ***
 
 THE CRUISE OF THE MIDGE.
 
@@ -302,10 +271,10 @@ you, and your friend Mr Lanyard, saved from perishing of thirst."
 
 "I am, sir; and I hope heaven will reward you for it.  My husband has
 been here often, sir, to enquire after you.  His vessel is consigned to
-Mr Duquesne, sir; how happy he will be to find you so much better, when
+Mr Duquesné, sir; how happy he will be to find you so much better, when
 he calls at dinner time to-day!"
 
-"How came it that I was carried into this house?  Mr Duquesne's, I
+"How came it that I was carried into this house?  Mr Duquesné's, I
 believe--a Frenchman, from the name?"
 
 "You were wounded close to it, sir, and the marine who found you,
@@ -316,7 +285,7 @@ it in my power to be of some use to you, as a sick-nurse."
 
 To let the reader behind the curtain without more palaver, I shall
 bring my log up to the present speaking, in three words or so:--Mr
-Duquesne, in whose hospitable mansion I now lay badly wounded, was a
+Duquesné, in whose hospitable mansion I now lay badly wounded, was a
 French merchant of high repute in Havanna.  He was a widower, and had
 an only daughter, Sophie, the beautiful brunette that I had seen
 hanging over De Walden at the easel.  The manager of his New York
@@ -328,9 +297,9 @@ first, to arrange some mercantile transactions with his partner; and
 secondly, to take possession of a large coffee property, that he had
 lately inherited in right of his wife.
 
-Sophie Duquesne and Helen Hudson were bosom friends, according to the
+Sophie Duquesné and Helen Hudson were bosom friends, according to the
 rule observed in all similar cases; and as for the gentlemen of the
-family, Mr Duquesne, the papa, was a stout but very handsome man,
+family, Mr Duquesné, the papa, was a stout but very handsome man,
 apparently about fifty.  He did not, in the most remote degree, fall in
 with one's notions of a Frenchman; verily I would have sworn he never
 had eaten a frog in his life.  He was punctiliously well-bred, spoke
@@ -930,7 +899,7 @@ followed by several of his customers, whom he had invited to take
 refreshments, precisely as a horsedealer treats _his_ after a good
 day's sale.  There was a Frenchman, two or three Spanish planters, and
 an American gentleman, in the party.  The first and last, happily for
-me, proved to be Mr Duquesne, the master of the house we are in, and
+me, proved to be Mr Duquesné, the master of the house we are in, and
 his partner, Mr Hudson, who good-naturedly enquired of the captain
 which of his officers it was who lay sick in the hammock.  He at once
 told them what he knew of me; the tale was romantic enough to engage
@@ -953,7 +922,7 @@ came to the gangway, and told me that the companion hatch had been
 locked from within, and that he dared not open it.  'Very odd sort of
 person,' thought I; but as I had no inducement to press my attentions
 upon one who had given me so broad a hint to be off, I stepped into the
-boat, in which I encountered Mr Duquesne himself, who, on perceiving
+boat, in which I encountered Mr Duquesné himself, who, on perceiving
 that I was so much better than he expected, and that there were no bad
 symptoms about me, would not hear of my going to a lodging-house, but
 insisted on accommodating me with an apartment in his own.
@@ -975,7 +944,7 @@ you the young brigand.'"
 At this part of De Walden's story I looked up--"And pray, _who_ is
 Mademoiselle Sophie, who is so ready with her _soubriquets_?"
 
-He reddened like a rose--"Why, sir,--_that is--she is_ Mr Duquesne's
+He reddened like a rose--"Why, sir,--_that is--she is_ Mr Duquesné's
 only daughter, sir; you may have seen her."
 
 "I think I have, and I see something else, too," said I, significantly.
@@ -994,14 +963,14 @@ liberally rewarded by the owners of the polacre, and can spare it.'
 "'Nothing so absurd in ten doubloons, my good boy, I calculate,' quoth
 Mr Hudson, scanning my outward man scrutinizingly.
 
-"'Pray, Mr Duquesne, will you be kind enough to ask who brought this?'
+"'Pray, Mr Duquesné, will you be kind enough to ask who brought this?'
 
 "'The man who brought it was dressed like a Batabano smuggler, sir,'
 said the servant at whom his master had made the enquiry.
 
 "'Is he below?'
 
-"'No, senor; he said it required no answer, and did not wait.'
+"'No, señor; he said it required no answer, and did not wait.'
 
 "I did not much like receiving this alms at the hands of my fierce
 ally; but, under all the circumstances, I thought it prudent to pocket
@@ -1046,7 +1015,7 @@ street, which he threw open, contriving to perform all his operations
 with the greatest possible quantity of noise.
 
 "I have it," said he,--"here is little Pepe Biada's shaving-shop right
-over against old Pierre Duquesne's domicile; there--next door to Pablo
+over against old Pierre Duquesné's domicile; there--next door to Pablo
 Carnero, the ham and jerked beef man, so I'll hail Pepe.--Pepe!" bawled
 my troublesome friend,--"Pepe Biada--trae su navaja [bring your razor,
 you villain] pour shavez un gentilhomme Engles;" and here he grimaced,
@@ -1078,7 +1047,7 @@ he were rubbing his chin on it, and then laughed, like to fall down
 where he stood.
 
 Listado at this flew into a great rage--"Abortion chicho, mas monkey
-que homo, yo te mataras--vous sera tue--si vous twistibus your damned
+que homo, yo te mataras--vous sera tué--si vous twistibus your damned
 ugly mug at migo"----
 
 "Bueno--bueno," roared el barbero, seeing that nothing would do but the
@@ -1094,7 +1063,7 @@ grey pelucca (wig), and his little silver basin and towel under his
 arm--his soap-box and razors in the one hand, and, lo! a capital New
 York ham in the other.
 
-"Pelukero condenado--quevas hacer con este pierna de puerco?" (You
+"Pelukero condeñado--quevas hacer con este pierna de puerco?" (You
 infernal wigmaker, what are you going to do with that leg of pork?)
 
 "What am I going to do with it? did you not tell me to fetch a
@@ -1115,7 +1084,7 @@ wound dressed, and Mrs Gerard acting the part of nurse, having
 previously got my clothes on shore, and, with womanly kindness and
 care, had them all washed, and nicely repaired, I had my bed made and
 sprinkled with Cologne water, and was soon lying on the top of it,
-arrayed in one of Mr Duquesne's splendid flowered nightgowns, with a
+arrayed in one of Mr Duquesné's splendid flowered nightgowns, with a
 silk handkerchief bound round my head, and another in my hand,
 moistened with fresh lavender;--the windows were then thrown open--the
 room thoroughly ventilated--the floor sprinkled with the aforesaid most
@@ -1172,7 +1141,7 @@ in an absurd sprawling fashion, like a large frog.  I started, and he
 burst into a loud laugh, while the pet-lamb wheeled about so suddenly,
 that little Dicky was thrown with a bang on the floor, and began to
 cry, when in rushed two girls, and Mrs Hudson; followed by De Walden,
-Mr Hudson, and old Mr Duquesne himself.
+Mr Hudson, and old Mr Duquesné himself.
 
 "There is a scene in a play for you," said I to myself, quite bothered
 and confused, as I wagged my head at this one, and nodded to another,
@@ -1197,9 +1166,9 @@ wild beas, bear you call.  Ah, you make no sound more as de tunder--Ah
 ha!"
 
 "Now you are in your senses again, mon cher medico.  Miss Hudson,
-Mademoiselle Sophie Duquesne, give me leave to introduce you to--Master
+Mademoiselle Sophie Duquesné, give me leave to introduce you to--Master
 Brail, pilot of His Britannic Majesty's seventy-four gun-ship, the
-Midge--Benjamin Brail, Miss Hudson, and Mademoiselle Duquesne--Speak,
+Midge--Benjamin Brail, Miss Hudson, and Mademoiselle Duquesné--Speak,
 Benjie, and let them know you've a tongue in your head, you spalpeen."
 
 I made my acknowledgments to the kind-hearted people, who, after
@@ -1233,7 +1202,7 @@ light--besides, she is shortsighted."
 
 De Walden's smile showed he was not, at any rate.
 
-"And as for eyebrows, why, the superb arch of Miss Duquesne's is
+"And as for eyebrows, why, the superb arch of Miss Duquesné's is
 infinitely finer, and beats them hollow--her neck and throat tolerable,
 certainly; and the kindliness of her manner!--why, she comports herself
 like a little matron beside a sick-bed; and the way she handles little
@@ -1244,16 +1213,16 @@ mamma, poor little fellow."
 
 "No, unless it was her voice I heard but just now in the other room."
 
-"You guess rightly.  Miss Duquesne sang the second to her first.  Two
+"You guess rightly.  Miss Duquesné sang the second to her first.  Two
 voices never did in this world blend so sweetly."
 
 "Ah!" said I, fearing he was again cruising too near me, "the pipe was
 good enough--liquid and musical-glass like; but Miss Sophie
-Duquesne's--_that_ was a voice indeed--so deep for a woman, so clear,
+Duquesné's--_that_ was a voice indeed--so deep for a woman, so clear,
 so full-bodied."
 
 "Pray, sir," said De Walden, archly, "are you speaking of the qualities
-of London porter, or Mademoiselle Duquesne's voice?"
+of London porter, or Mademoiselle Duquesné's voice?"
 
 I looked at the young midshipman; and, darkened as the room was, I saw
 the rogue laughing heartily in his sleeve.
@@ -1394,7 +1363,7 @@ particle of light where we stood.
 "Hillo," said De Walden, "Master Lennox, this is not over and above
 civil."
 
-"El marinero ese es loco, senor."  (That sailor is mad, sir), quoth the
+"El marinero ese es loco, señor."  (That sailor is mad, sir), quoth the
 jailer.
 
 "Mad or not, I will see if I cannot make him mend his manners," said I,
@@ -1547,7 +1516,7 @@ dying declaration.
 The daylight had entirely failed by the time we reached the cell where
 Adderfang lay.  We were met at the door by a Carmelite priest, who
 appeared in great wrath, and muttered something about a "Heretico
-condenado."  We entered.  It was an apartment of the same kind as the
+condeñado."  We entered.  It was an apartment of the same kind as the
 one in which Lennox had been confined, and had a low pallet on one
 side, fronting the high iron-barred window.  From the darkness I could
 merely make out that some person lay on the bed, writhing about,
@@ -1865,7 +1834,7 @@ have gone for a six months' snooze, like a bat in winter; if you don't
 let me in, I shall swear you are hanging from the roof by the claws."
 
 "I can't help it, man--I am unable to get up and dress without
-assistance; so, like a dear boy, call up old Nariz de Nieve,[1] the
+assistance; so, like a dear boy, call up old Nariz de Niéve,[1] the
 black valet, and ask the favour of his stepping in to help me."
 
 
@@ -1874,7 +1843,7 @@ black valet, and ask the favour of his stepping in to help me."
 
 "Stepping in!--why, Benjie Brail, your seven senses are gone
 a-wool-gathering, like Father Rogerson's magpie--how the blazes can
-Nariz de Nieve, or any one else, get to you, through a two-inch door,
+Nariz de Niéve, or any one else, get to you, through a two-inch door,
 locked on the inside?--you must get up and undo it, or you will die of
 starvation, for no blacksmith in Havanna could force such a
 complication of hardwood planks and brass knobs."
@@ -1885,7 +1854,7 @@ crawled towards the door.  But Listado had not patience to wait on my
 snail's pace, so, setting his back to it, he gave a thundering push,
 sufficient to have forced the gates of Gaza from their hinges, and
 banged the door wide open.  It had only caught on the latch, not having
-been fastened, after all; but he had overcome the _vis inertiae_ rather
+been fastened, after all; but he had overcome the _vis inertiæ_ rather
 too fiercely, for in spun our gingham-coated friend, with the flight of
 a Congreve rocket, sliding across the tiled floor on his breast a
 couple of fathoms, like a log squirred along ice.  At length he lost
@@ -1895,7 +1864,7 @@ _his way_, and found his tongue.
 fine morning, take Don Lorenzo's word for it.  Why the devil did you
 open the door so suddenly, without telling me?--see, if these cursed
 tiles have not ground off every button on my waistcoat, or any where
-else.  I must go into old Pierre Duquesne's garden, and borrow some fig
+else.  I must go into old Pierre Duquesné's garden, and borrow some fig
 leaves, as I am a gentleman."
 
 I could scarcely speak for laughing.  "The door was on the latch, as
@@ -1962,7 +1931,7 @@ say a fellow is _garroteado_, don't you hear the poor devil actually
 _throttling_?--Oh! it's a beautiful word."
 
 Here Manuel, the black butler, entered, to assist in rigging me, as
-Nariz de Nieve was occupied otherwise; and time it was he did so, for
+Nariz de Niéve was occupied otherwise; and time it was he did so, for
 Listado was, without exception, the worst and roughest groom of the
 bedchamber that ever I had the misfortune to cope withal; but the
 plaguey Irishman must still put in his oar.
@@ -2082,7 +2051,7 @@ after the former had given Drainings, the cook, and old Dogvane the
 quartermaster, leave for that afternoon to go on shore with the marine.
 
 About sunset the same evening, as I was returning from an airing into
-the country in Mr Duquesne's volante, who should I overtake but the
+the country in Mr Duquesné's volante, who should I overtake but the
 trio above alluded to, two of them in a very comfortable situation as
 it appeared.  First came Dogvane and Lennox, with little Pablo Carnero,
 the Spanish ham merchant and pig butcher before mentioned, who was a
@@ -2132,7 +2101,7 @@ wife, he lost control of himself altogether, and laughed until he
 rolled over and over, gingham coat and all, in the dusty road.
 
 "Culebra a su muger!--valga me dios--tabernaculo del diablo mismo a su
-querida!--ha ha, ha" (hiccup), "mandale papagayo, hombre--o pina
+querida!--ha ha, ha" (hiccup), "mandale papagayo, hombre--o piña
 conservada, o algo de dulce--algo para comer--pero
 serpiente!--culebra!--ha--ha--ha!"--(A snake to your wife!--heaven
 defend me--the tabernacle of the old one himself to your
@@ -2174,7 +2143,7 @@ or smugglers, and that Lennox had bargained with him for a mule, and
 made his little arrangements for proceeding with a recua, or small
 caravan, across the island on the following evening.
 
-Next morning Mr Duquesne and I, accompanied by Listado and Mr M----,
+Next morning Mr Duquesné and I, accompanied by Listado and Mr M----,
 rode into the country about five miles, on the Batabano road, to visit
 Mr D---- and family at their villa.  I found M---- a very intelligent
 Scotchman; indeed, in most matters of trade he was, and I hope _is_,
@@ -2185,7 +2154,7 @@ kindness I never can forget it.  Mr D---- was an Englishman who had
 married a Spanish lady; and at the time I mention, he had returned from
 England with his children--a son, and several daughters grown up--the
 latter with all the polish and accomplishments of Englishwomen
-engrafted on the enchanting _naivete_ of Spanish girls; and even at
+engrafted on the enchanting _naïveté_ of Spanish girls; and even at
 this distance of time I can remember their beautifully pliant and most
 graceful Spanish figures, as things that I can dream of still, but
 never expect again to see; while their clear olive complexions, large
@@ -2272,7 +2241,7 @@ of sables; cutting a conspicuous figure amongst the gaudily dressed
 Dons.  He paced steadily past us, and when I bid him good-by, he merely
 touched his hat and rode on.  Presently the whole cavalcade was out of
 sight, and nothing else occurred until we arrived at Havanna, and I
-found myself once more comfortably lodged under Mr Duquesne's
+found myself once more comfortably lodged under Mr Duquesné's
 hospitable roof.
 
 About a fortnight after this I received letters from Mr Peter Brail, my
@@ -2293,7 +2262,7 @@ country.  Accordingly, the following morning we were all prepared to
 set off to visit Mr Hudson's estate; it was about five in the
 morning--we had packed up--the volantes and horses were already at the
 door, and Mrs Hudson, her daughter Helen, with Dicky Phantom, once more
-in his little kilt of a frock, in her hand; Sophie Duquesne, De Walden,
+in his little kilt of a frock, in her hand; Sophie Duquesné, De Walden,
 Mr Hudson, and myself, all spurred and whipped, if not all booted, were
 ready in the vestibule, waiting by candle-light for Mr Listado, who was
 also to be of the party.  Gradually the day broke, and as the servants
@@ -2333,7 +2302,7 @@ us.
 friar, that you travel without your hat"----
 
 "My hat?" said I, deucedly taken aback and annoyed; "true enough--how
-very odd and foolish--I say, Nariz de Nieve, do oblige me, and ride
+very odd and foolish--I say, Nariz de Niéve, do oblige me, and ride
 back for my sombrero."
 
 
@@ -2421,7 +2390,7 @@ mermaids of the ocean if they saw you--but I believe they are not given
 to walk much in woods.  Miss Hudson's beautiful face is of a cool
 refreshing pea-green, as I am a gentleman; and her fair nose of the
 colour of a grey parrot's bill, or an unboiled lobster's claw,--as for
-Mademoiselle Duquesne--may I die an ould maid, if you are not a
+Mademoiselle Duquesné--may I die an ould maid, if you are not a
 delicate shade darker--and look if the child don't look as green as a
 fairy.  Did ever mortal man see such a shamrock of a picanniny?  But it
 is past meridian--stop till I take an observation."--Here our noisy
@@ -2648,7 +2617,7 @@ out of his clothes altogether; and there he stood like a little naked
 Cupidon--"Now I shall go and catch fis," said the little fellow
 laughing.  With that he toddled away into the basin of water, that was
 gurgling and splashing in the court-yard.  I wish there had been a
-painter to have caught the group.  Sophie Duquesne and Helen Hudson
+painter to have caught the group.  Sophie Duquesné and Helen Hudson
 running about the small walks of the rocky parterre, dashing the water
 spangles from the flowers with their light feet, and laughing loudly as
 they strove to catch Dicky, who kept just beyond their reach, squealing
@@ -2694,7 +2663,7 @@ mean--beg pardon"----
 wishes us to visit some beautiful scenery in the woods; but we shall
 ride to it another forenoon--only, why will you distress yourself about
 calling me Helen--why, I _am_ Helen--every body calls me Helen--with
-your precise _Miss_ Hudson, and _Mademoiselle_ Duquesne.  If you stick
+your precise _Miss_ Hudson, and _Mademoiselle_ Duquesné.  If you stick
 to such formalities, I will positively treat you to a few
 _calculations_ and _guessings_."  Here the laughing girl gave the true
 nasal twang of Jonathan himself.
@@ -2752,9 +2721,9 @@ see, they are all back to have another peep at you."
 "Probably they found their beds were not made, De Walden," rapped out
 Listado.
 
-"Very extraordinary; what can that mean?" said Sophie Duquesne.
+"Very extraordinary; what can that mean?" said Sophie Duquesné.
 
-"My dear Miss Duquesne," said Listado, "I see I must give you some
+"My dear Miss Duquesné," said Listado, "I see I must give you some
 lessons in pronunciation still--why will you worry your R's so in your
 beautiful throat?"
 
@@ -3094,7 +3063,7 @@ Listado _told_ me."
 mumble, munch, munch, quoth our amigo.
 
 "Brail, some of that ham;--go on, De Walden, will ye--devil take the
-fellow;--bread, if you please, Monsieur Duquesne--thank you.  How
+fellow;--bread, if you please, Monsieur Duquesné--thank you.  How
 deucedly hungry I am, to be sure;--that claret, Brail--and the _monkey_
 of cool water--thank you--work along, Henry."
 
@@ -3125,7 +3094,7 @@ Adderfang."
 
 "Why," I continued, "there must have been connivance."
 
-M. Duquesne smiled.  "Ah, Monsieur Brail, de road--way you call, of dis
+M. Duquesné smiled.  "Ah, Monsieur Brail, de road--way you call, of dis
 country, and de habitants, you not know--I make no vonder not large at
 all--it has happen very customary."
 
@@ -3589,7 +3558,7 @@ face.  When she uttered these words, he slowly turned them on me, and
 while the tears hopped over his cheek, he advanced, and took my hand.
 
 "Brail, I wish you joy--from my soul, I do--even although I--curse it,
-never mind--but, man, could you not take Sophie Duquesne?--yet--even at
+never mind--but, man, could you not take Sophie Duquesné?--yet--even at
 the eleventh hour, Benjamin?--it would mightily oblige me, do you know."
 
 I smiled.
@@ -3645,7 +3614,7 @@ it."
 
 He looked at me, with the strangest twinkle of his eye, then slewing
 his head from side to side, he twitched up one corner of his mouth, as
-he said--"Will you, or will you not, take Sophie Duquesne,
+he said--"Will you, or will you not, take Sophie Duquesné,
 Brail?--Lord, man, she is the finer woman of the two, and surely you
 have known neither of the girls long enough to have any peculiar
 preference."
@@ -3684,19 +3653,19 @@ At one moment both Helen and myself were buoyed up with the most joyous
 anticipations; at another a weight hung on our hearts, that we could
 not ourselves account for.  With us, however, the chances of happiness
 seemed to preponderate; but it was far otherwise with poor De Walden
-and Sophie Duquesne, who, children as they both were, had also tumbled
+and Sophie Duquesné, who, children as they both were, had also tumbled
 head over heels in love, before they were aware of it.
 
 For several days the young midshipman had been kept on board attending
 to his duty; it was the last evening but one that I was to spend at
 Havanna, when, against Mrs Hudson's wish, and, I need not say, most
-diametrically opposed to Helen's and mine, old Mr Duquesne had invited
+diametrically opposed to Helen's and mine, old Mr Duquesné had invited
 some friends in the evening; and, having dined at the usual hour, the
 girls were having their hair dressed in the boudoir already described,
 while we, the male part of the family, were enjoying our wine in the
 room that had been my bedroom.
 
-"Now, Mr Duquesne," said I, "I really am quite ashamed at the trouble I
+"Now, Mr Duquesné," said I, "I really am quite ashamed at the trouble I
 must have put you all to lately; why" (looking round me) "I seem to
 have actually dispossessed you of your dining saloon for some time.  I
 was not aware of this before."
@@ -3705,7 +3674,7 @@ was not aware of this before."
 obligation were all mine.  I cannot wish you were wound again--oh
 _certainement_, I could not do dat sing; _mais_ I happy would be, you
 should sprain your foot, elbow, or head, or any leetle fingare--so as
-you were to stay here some time less--more I mean--_assurement_ you
+you were to stay here some time less--more I mean--_assurément_ you
 cannot maintain your resolution to leave us yesterday?--put off your
 depart until last week."
 
@@ -3731,8 +3700,8 @@ bantering going on between them, having reference to the young fellow.
 
 "Certainly," said William Hudson; "but come, Brail, would it not be an
 improvement on Helen's plan, were we to adjourn to the other room
-altogether--this one"--continued he, looking towards Mr Duquesne--"will
-be wanted soon--indeed, Nariz de Nieve and Manuel have once or twice
+altogether--this one"--continued he, looking towards Mr Duquesné--"will
+be wanted soon--indeed, Nariz de Niéve and Manuel have once or twice
 popped in their beautiful countenances at the door as hints for us to
 move."
 
@@ -3936,7 +3905,7 @@ packed on their edges, and overlapping each other, until they were
 fairly pistol proof, in scale armour of gold.
 
 After loud shouts of laughter at the manner in which they had _done_
-the _pies de gallo_, or custom-house officers, they stowed away the
+the _piés de gallo_, or custom-house officers, they stowed away the
 specie and donned their clothes again, when lo! the black "criados," to
 my great astonishment, began to strip in turn.  Presently Blackie was
 exhibited in the same state of nudity as his master had recently been;
@@ -3954,7 +3923,7 @@ toppling over into a sound snooze, when my Spanish allies, inspired by
 libations of bad brandy, with which they had washed down their mess of
 garlic and jerked beef, chose to chant in chorus, most vociferously,
 the popular peninsular song of the day, "A la guerra, a la guerra
-Espanoles."  This was absurd enough from a set of shopkeepers and
+Españoles."  This was absurd enough from a set of shopkeepers and
 smugglers; but being deucedly tired, I soon grew accustomed to their
 noise, which seemed to have no end, and fell fast asleep.
 
@@ -4960,7 +4929,7 @@ see, massa--but one ting I sall pretend, dat I is one Spanish negro;
 dis will give de interest to me, you know."  (_Interest!_ thought I,
 like to laugh in his face.)  "So tell de captain dere, not to peach
 upon Quacco--say I am one Spanish sarvant you got from de governor
-Senor Cien Fuegos."
+Señor Cien Fuegos."
 
 I laughed heartily at this instance of barbarous puppyism, and at the
 figure he cut when I had leisure to look at him.  First, he had
@@ -5063,7 +5032,7 @@ and handing sandwiches and coffee, and all manner of Creole luxuries.
 
 We were immediately introduced to mine host and his lady, both
 remarkably pleasant people, who, with true West India cordiality, made
-all manner of allowance for the suddenness of our _entree_, and the
+all manner of allowance for the suddenness of our _entrée_, and the
 unexpectedness of our visit altogether.  So here we were brought up all
 standing, as suddenly as if we had dropped from the moon.
 
@@ -5231,7 +5200,7 @@ and I was about apologizing, when some thing or other diverted the
 attention of our landlord from the subject, and the black Serjeant
 escaped farther notice.  I had before this observed a very handsome,
 tall, well-made man in the party, whose face somehow or other I fancied
-I had seen before, with an air peculiarly _distingue_, who, so far as I
+I had seen before, with an air peculiarly _distingué_, who, so far as I
 could judge, was a stranger to most of the visitors.  He had been
 introduced by the landlord to one or two of the ladies, and for some
 time seemed to devote himself entirely to his partners, and certainly
@@ -5311,7 +5280,7 @@ and bestowed on a sofa, and dancing recommenced with redoubled energy.
 The fiddlers scraped with all their might, the man who played the
 octave flute whistled like a curlew, and the tabor was fiercely beaten,
 rumpti, tumpti, while the black ballet-master sung out sharp and shrill
-his mongrel French directions, his _chassees_ and his _balancees_ to
+his mongrel French directions, his _chassées_ and his _balancées_ to
 massa dis, and misses dat, indicating the parties by name; who
 thereupon pricked up their ears, and looking as grave as judges,
 pointed their toes, and did, or attempted to do, as they were bid.
@@ -6152,7 +6121,7 @@ relapsed into his former drawling verbosity.  "Well, we pull for de
 smallest of de tree--see no one on deck but de man steering and two
 boy--de trange buccra shomp on board--'Now tank you, my lad,' him say
 quite shivel--'dere is de doubloon I promise--here, boy, give dem poor
-fellow a horn of grog a-piece.'--'Si Senor,' say de boy--fonny ting, I
+fellow a horn of grog a-piece.'--'Si Señor,' say de boy--fonny ting, I
 taught, for de boy to hanswer him in Panish--we drink de grog--'now
 shove off--good by--go home, and sleep,' said de trange buccra--but
 instead we come back to our nets, massa--before daybreak we come
@@ -7368,7 +7337,7 @@ at this time filled with numbers of the estate's people, some getting
 hot liquor, others sitting against the wall, eating their suppers by
 the lamp light, and not a few quizzing and loitering about in the mist
 of hot vapour, as if the place had been a sort of lounge, instead of a
-busy sugar manufactory--a kind of sable _soiree_.
+busy sugar manufactory--a kind of sable _soirée_.
 
 By the time we arrived in front of the overseer's house, we found the
 door surrounded by a group of four patriarchal-looking negroes and an
@@ -7578,7 +7547,7 @@ piece, who thereupon set up a regular howl--"ach, murder! murder! it is
 abducted, and ravished, and married against my will I shall
 be--murder!"--as _he_ in turn capsized over the prostrate negroes, and
 all was confusion and vociferation once more--until my two travelling
-friends, who had cleverly slipped out of the _melee_, while my uncle
+friends, who had cleverly slipped out of the _mêlée_, while my uncle
 was clapperclawing with his serving-men, returned from the pantry,
 whither they had betaken themselves; and now stood on the original
 field of battle, the landing-place of the stair, each with a lighted
@@ -8832,13 +8801,13 @@ young man, is no more--he died this morning of yellow fever.  And who
 do you think is appointed to the Spider?--why, Henry De Walden, once
 more--nothing, you see, but Henry de Walden!
 
-"To make a long story short, Mr Duquesne has now given his consent to
+"To make a long story short, Mr Duquesné has now given his consent to
 their union, but old Sir Oliver, who exercises a _great_, and to me
 unaccountable control over Henry, will not hear of it, until he is made
 commander, so they must both live in hope; but for the moment, they are
 but too happy to be extricated from the gloomy slough of despond in
 which they had made up their minds they were both set fast.  My father,
-mamma, Mr Duquesne, Sophie, and Henry De Walden, all unite in kindest
+mamma, Mr Duquesné, Sophie, and Henry De Walden, all unite in kindest
 regards to you.  And now, my dearest Benjamin, do not be alarmed at
 this blistered manuscript; my heart is melting, and weeping relieves
 me, but I am not unhappy--oh, no--but anxious--oh, _how_ anxious!--I
@@ -9433,7 +9402,7 @@ to have his ribs very sufficiently kneaded by the knees and feet of his
 rebellious compatriots.
 
 Having accomplished this feat, the sailor, as if desirous of escaping
-observation, slid out of the _melee_, and I lost sight of him.
+observation, slid out of the _mêlée_, and I lost sight of him.
 
 The fight continued, but the police were by this time masters; and
 fortunately we were taken into custody, and bailed by our friends.
@@ -9550,7 +9519,7 @@ be soon stark and stiff enough.  His neck is broken--_that's all_."
 
 "Neck broken!" said Flamingo and I in a breath, much shocked.
 
-"Yes, and dead as Julius Caesar.  But, pray, did you notice if the White
+"Yes, and dead as Julius Cæsar.  But, pray, did you notice if the White
 Jacket and Black Cap came in?"
 
 _The man had, in very truth, actually broken his neck_.
@@ -10437,7 +10406,7 @@ them.  His figure was short and squat; his arms peculiarly laconic; and
 as he always kept them in motion, like a pair of flappers, his presence
 might be likened to that of a turtle on its hind fins.
 
-The manner and speech of El Senor Tobias were, if possible, more odd
+The manner and speech of El Señor Tobias were, if possible, more odd
 than his outward and physical man; his delivery being a curious mixture
 of what appeared to be a barbarous recitative, or sing-song, and
 suppressed laughter; although the latter was only a nervous frittering
@@ -11089,7 +11058,7 @@ master like a puppy; but the moment any of us spoke to him, he raised
 his back into an angry curve, with the black streak that ran down it
 bristling up like a wild-boar's, and set his long tail straight, as if
 it had been a crow-bar, or the Northumbrian lion's; and then his
-teeth--my wig! the laughing hyaena was a joke to him.  But I must return
+teeth--my wig! the laughing hyæna was a joke to him.  But I must return
 from the dog to the man.  He was dressed in very wide trowsers, of a
 sort of broad, yellow stripped silk and cotton Indian stuff; slippers
 of velvet-looking, yellowish-brown Spanish leather, and no stockings;
@@ -11443,7 +11412,7 @@ astonishment--but the plot was only thickening.
 "And I have never seen such a strong phosphorescence of the sea as
 to-night.  Look there, the breakers on the reef are like a ridge of
 pale fire.  Why, here are a whole bushelful of portents, more numerous
-than those which preceded the death of Caesar, as I am a gentleman."
+than those which preceded the death of Cæsar, as I am a gentleman."
 
 The Dominie did not relish this sort of talking, I noticed.  "It may be
 no laughing matter to some of us before all is done, sir."
@@ -12017,7 +11986,7 @@ contracting with the speed of light, as if it had as suddenly been
 _repelled_ by them, leaving only a transparent phantom-like track of
 dark shreds in the air, to show where it had shrunk from.  There, it
 lengthens again, as if it once more felt an affinity for the sharp
-spiculae of the leaves, that seem to erect themselves to meet it.  It
+spiculæ of the leaves, that seem to erect themselves to meet it.  It
 almost touched them--flash--the electric fluid sparked out and _up_,
 either from the cocoa-nut trees themselves, or through them as
 conductors from the sandy spit on which they grew.  I saw it
@@ -12651,9 +12620,9 @@ Henry Oakplank--I beg his pardon--soon after the action already
 related, was made commander, and eventually post.
 
 He was recently ordered home, and allowed to call at Havanna, and to
-give Mademoiselle Sophie and Monsieur Duquesne a passage in his ship;
+give Mademoiselle Sophie and Monsieur Duquesné a passage in his ship;
 but he somewhat infringed the letter of the admiral's license, by
-converting Mademoiselle Duquesne into Lady Oakplank before embarking.
+converting Mademoiselle Duquesné into Lady Oakplank before embarking.
 They paid us a visit immediately after being paid off, on his arrival
 in England, and are now rusticating in Switzerland, on a visit to his
 ill-fated mother's relations.
@@ -12839,360 +12808,7 @@ EDINBURGH: PRINTED BY BALLANTYNE AND CO., PAUL'S WORK.
 
 
 
-End of the Project Gutenberg EBook of The Cruise of the Midge (Vol. II of 2), by
+End of the Project Gutenberg EBook of The Cruise of the Midge (Vol. II of 2), by 
 Michael Scott
 
-*** END OF THIS PROJECT GUTENBERG EBOOK CRUISE OF THE MIDGE, VOL II ***
-
-***** This file should be named 44876.txt or 44876.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/4/8/7/44876/
-
-Produced by Al Haines
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+*** END OF THE PROJECT GUTENBERG EBOOK 44876 ***
